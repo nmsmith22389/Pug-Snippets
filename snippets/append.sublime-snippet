@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-append ${1:file}
+append ${1:name}
 ]]></content>
     <tabTrigger>app</tabTrigger>
     <scope>source.pug, text.pug</scope>
