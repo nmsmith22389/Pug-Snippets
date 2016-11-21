@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+include ${1:file}
+]]></content>
+    <tabTrigger>inc</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>include ...</description>
+</snippet>

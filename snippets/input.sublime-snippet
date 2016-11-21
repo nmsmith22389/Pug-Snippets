@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input(type='${1:text}')
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>Input Tag</description>
+</snippet>

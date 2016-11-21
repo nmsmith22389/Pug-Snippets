@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+:stylus
+    $0
+]]></content>
+	<tabTrigger>styl</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+    <description>Stylus</description>
+</snippet>

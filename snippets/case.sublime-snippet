@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+case ${1:variable}
+    when ${2:condition}
+        ${3://- code}
+    default
+        ${4://- code}
+]]></content>
+    <tabTrigger>case</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>Case</description>
+</snippet>

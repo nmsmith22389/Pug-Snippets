@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+while ${1:condition}
+    //- code
+]]></content>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>while ...</description>
+</snippet>

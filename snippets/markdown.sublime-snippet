@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+:markdown
+	$0
+]]></content>
+	<tabTrigger>md</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+    <description>Markdown</description>
+</snippet>

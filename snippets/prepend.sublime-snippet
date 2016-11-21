@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+prepend ${1:name}
+]]></content>
+    <tabTrigger>pre</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>prepend ...</description>
+</snippet>

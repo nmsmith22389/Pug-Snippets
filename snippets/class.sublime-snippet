@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+class='$1'
+]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>Class Attr</description>
+</snippet>

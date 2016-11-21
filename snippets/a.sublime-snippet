@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+a(href='${1:http://}') ${3:text}
+]]></content>
+	<tabTrigger>a</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>A Tag</description>
+</snippet>

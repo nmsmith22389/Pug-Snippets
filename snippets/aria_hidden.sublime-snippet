@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-hidden=${1:true}
+]]></content>
+	<tabTrigger>ariah</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>Aria Hidden Attr</description>
+</snippet>

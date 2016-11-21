@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+:coffeescript
+	$0
+]]></content>
+	<tabTrigger>cof</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+    <description>CoffeeScript</description>
+</snippet>

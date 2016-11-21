@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+:less
+	$0
+]]></content>
+	<tabTrigger>less</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>Less</description>
+</snippet>
