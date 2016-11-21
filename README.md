@@ -1,4 +1,4 @@
-# [Pug Snippets](https://github.com/nmsmith22389/Pug-Snippets)
+# :dog: [Pug Snippets](https://github.com/nmsmith22389/Pug-Snippets) *(1.0.0)*
 
 ####Pug Snippets for Sublime Text
 *Pug was formerly known as Jade*
