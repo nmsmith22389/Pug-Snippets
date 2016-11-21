@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form(method='$1', action='$2')
+]]></content>
+	<tabTrigger>form</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>Form Tag</description>
+</snippet>

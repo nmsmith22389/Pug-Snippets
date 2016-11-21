@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+img(src='${1:path}', alt='$2')
+]]></content>
+	<tabTrigger>img</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>Image Tag</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+button(type='${1:submit}') ${2:name}
+]]></content>
+	<tabTrigger>btn</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>Button Tag</description>
+</snippet>

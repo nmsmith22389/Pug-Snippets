@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+doctype html
+]]></content>
+    <tabTrigger>doc</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>Doctype HTML</description>
+</snippet>

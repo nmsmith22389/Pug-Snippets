@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+link(rel='stylesheet', ${1:type='text/css', }href='${2:css/app.css}')
+]]></content>
+    <tabTrigger>link</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>Link Tag</description>
+</snippet>

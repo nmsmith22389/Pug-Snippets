@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+aria-$1='$2'
+]]></content>
+	<tabTrigger>aria</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>Aria Attr</description>
+</snippet>

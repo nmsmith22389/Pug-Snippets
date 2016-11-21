@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+mixin ${1:name}(${2:param})
+    ${3://- code}
+]]></content>
+    <tabTrigger>mix</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>mixin ...</description>
+</snippet>

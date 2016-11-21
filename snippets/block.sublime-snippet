@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+block ${1:name}
+]]></content>
+    <tabTrigger>blk</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>block ...</description>
+</snippet>
