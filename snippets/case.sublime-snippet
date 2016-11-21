@@ -8,5 +8,5 @@ case ${1:variable}
 ]]></content>
     <tabTrigger>case</tabTrigger>
     <scope>source.pug, text.pug</scope>
-    <!-- <description>Switch</description> -->
+    <description>Case</description>
 </snippet>
